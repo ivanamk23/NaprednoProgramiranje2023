@@ -1,0 +1,12 @@
+1.Kolku dena ima edna nedela?; a)7 ; b)2 ; c)17
+2.Koj e glaven grad na Makedonija?; a)Bitola ; b)Skopje ; c)Resen;
+3.Koe od ova jadenje e makedonski specijalitet?; a)krofna ; b)makaroni ; c)ajvar;
+4.Koja e najgolema planeta vo soncheviot sistem?; a)Zemja ; b)Jupiter ; c)Mars;
+5.Koja drzhava izlegva na more?; a)Makedonija ;b)Srbija ; c)Grcija;
+6.Koj e vtor den vo nedelata?; a)vtornikv ; b)nedela ; c)petok ;
+7.Koj grad e pripagja na 2 kontinenti?; a)London; b)Istanbul ; c)Zagreb;
+8.Prv makedonski pretsedatel bil?; a)Kiro Gligorov ; b)Boris Trajkovski  ; c)Gjorge Ivanov;
+9.Kolku e rezultatot na  1200+650?; a)1850 ; b)5893 ; c)2050;
+10.Kolku prirodni ezera ima vo Makedonija? ; a)14 ; b)3 ; c)0;
+11.Koe od slednite specijaliteti e italijanski?; a)ajvar ; b)sushi ; c)pica;
+12.Kolku meseci ima edna godina?; a)12 ;  b)10 ; c)20;
